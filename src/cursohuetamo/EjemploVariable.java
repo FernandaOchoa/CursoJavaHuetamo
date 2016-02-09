@@ -1,5 +1,5 @@
 package cursohuetamo;
-
+//Ejemplo de uso de variables
 public class EjemploVariable {
 
     public static void main(String[] args) {
